@@ -26,7 +26,7 @@ const scoreState = {
       this.score += 100 - 
       (1 * (clickCount - levelCatalogue[`${ currentLevel }`].minClicks)) -
       (5 * (attempts - 1)) -
-      (10 * hintsUsedCount)
+      (20 * hintsUsedCount)
   }
 }
 
