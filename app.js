@@ -3,13 +3,6 @@ import { Light } from './lightClass.js'
 import { levelCatalogue } from './gameLevels.js'
 import { clickedPlusAdjacent, alertMessage } from './utils.js'
 
-window.addEventListener("load",function() {
-  setTimeout(function(){
-      // This hides the address bar:
-      window.scrollTo(0, 1);
-  }, 0);
-});
-
 // body element - disable clicks while level refreshes
 const body = document.querySelector('body')
 // Access all clickable lights in the GUI
