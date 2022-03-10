@@ -23,6 +23,7 @@ Players are allowed 2 hints per level if needed, however, using hints will decre
 
 # Scoring
 You can earn a maximum of 100 points per level. Points are lost for the following scenarios:
+
 1: - 20 points per hint used
 
 2: - 5 points each time a level is failed
